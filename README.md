@@ -5,7 +5,7 @@
 ### 1.本项目的运行视频
 
 https://box.nju.edu.cn/library/08a1d43f-3caa-4b33-8011-fad278ff88f1/tool/
-文件："tool.mp4"
+中的视频文件
 
 ### 2.项目结构：
 
