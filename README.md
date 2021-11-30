@@ -21,6 +21,7 @@ https://box.nju.edu.cn/library/08a1d43f-3caa-4b33-8011-fad278ff88f1/tool/
   - 1-2-embedding.sh:建立embedding文件
   - 2-train.sh：训练模型（有使用复制机制）
   - 3-test.sh：用训练完成的模型对于测试集body生成title的TXT文件
+  - 4-value.py:评估模型预测的效果
 
 ### 2.运行要求
 
