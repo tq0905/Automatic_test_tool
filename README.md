@@ -4,7 +4,8 @@
 
 ### 1.本项目的运行视频
 
-https://box.nju.edu.cn/library/08a1d43f-3caa-4b33-8011-fad278ff88f1/tool/中的"tool.mp4"
+https://box.nju.edu.cn/library/08a1d43f-3caa-4b33-8011-fad278ff88f1/tool/
+文件："tool.mp4"
 
 ### 2.项目结构：
 
@@ -36,7 +37,7 @@ https://box.nju.edu.cn/library/08a1d43f-3caa-4b33-8011-fad278ff88f1/tool/中的"
 
    1. 在iTAPE中新建文件夹"data"
 
-   2. 从https://box.nju.edu.cn/library/08a1d43f-3caa-4b33-8011-fad278ff88f1/tool/下载data.rar获取原始数据，解压后得到的“github.json”和“glove.6B.100d.txt”储存在"data/"下
+   2. 从https://box.nju.edu.cn/library/08a1d43f-3caa-4b33-8011-fad278ff88f1/tool/ 下载data.rar获取原始数据，解压后得到的“github.json”和“glove.6B.100d.txt”储存在"data/"下
 
    3. 从上述链接下载OpenNMT-py-1.2.0.zip获取OpenNMT-py的源码，解压后得到的文件夹“OpenNMT-py"放在"iTAPE/"下
 
